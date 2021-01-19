@@ -1,0 +1,81 @@
+
+0.0, 2.3mm pinch, v0
+=================================
+orignal vertex asymmetry mean:      564.475   RMS:    80.912
+reproduce vertex asymmetry mean:    564.488   RMS:   80.9171
+elemental asymmetry mean:           564.723   RMS:   80.9063
+=================================
+orignal vertex angle mean:     4.7068   RMS:  0.518999
+elemental angle mean:         4.70522   RMS:  0.519161
+=================================
+orignal vertex Q2 mean:   0.00619592   RMS:  0.00138043
+elemental Q2 mean:        0.00620088   RMS:  0.00138305
+=================================
+
+????? same as above, but...?
+=================================
+orignal vertex asymmetry mean:      564.475   RMS:    80.912
+reproduce vertex asymmetry mean:    563.875   RMS:   80.7201
+elemental asymmetry mean:           564.116   RMS:   80.7052
+elemental stretched asymmetry mean:           551.468   Err:   1.28691
+=================================
+orignal vertex angle mean:     4.7068   RMS:  0.518999
+elemental angle mean:         4.70124   RMS:  0.517643
+=================================
+orignal vertex Q2 mean:   0.00619592   RMS:  0.00138043
+elemental Q2 mean:        0.00619008   RMS:  0.00137854
+=================================
+
+-1.0, 1.5mm pinch, v0
+=================================
+orignal vertex asymmetry mean:      563.672   RMS:   81.0481
+reproduce vertex asymmetry mean:    563.541   RMS:   81.0773
+elemental asymmetry mean:           564.111   RMS:   81.0067
+=================================
+orignal vertex angle mean:    4.70234   RMS:  0.521064
+elemental angle mean:          4.7019   RMS:  0.521043
+=================================
+orignal vertex Q2 mean:   0.00618488   RMS:  0.00138807
+elemental Q2 mean:        0.00619275   RMS:  0.00139026
+=================================
+
+-2.0, v0
+=================================
+orignal vertex asymmetry mean:      566.097   RMS:   81.3625
+reproduce vertex asymmetry mean:     566.03   RMS:   81.3485
+elemental asymmetry mean:           566.483   RMS:   81.2744
+=================================
+orignal vertex angle mean:    4.71861   RMS:  0.526801
+elemental angle mean:         4.71782   RMS:  0.526469
+=================================
+orignal vertex Q2 mean:   0.00622896   RMS:  0.00140996
+elemental Q2 mean:        0.00623581   RMS:  0.00141126
+=================================
+
+0.0, v1  colpinch -2mm
+=================================
+orignal vertex asymmetry mean:      563.848   RMS:   80.7388
+reproduce vertex asymmetry mean:    563.875   RMS:   80.7201
+elemental asymmetry mean:           564.116   RMS:   80.7052
+=================================
+orignal vertex angle mean:    4.70271   RMS:  0.517611
+elemental angle mean:         4.70124   RMS:  0.517643
+=================================
+orignal vertex Q2 mean:   0.00618486   RMS:  0.00137615
+elemental Q2 mean:        0.00619008   RMS:  0.00137854
+=================================
+
+-1.0, v1 colpinch -1
+=================================
+orignal vertex asymmetry mean:      564.848   RMS:   80.6358
+reproduce vertex asymmetry mean:    564.723   RMS:   80.6594
+elemental asymmetry mean:           565.291   RMS:   80.5857
+=================================
+orignal vertex angle mean:    4.70943   RMS:  0.519293
+elemental angle mean:         4.70901   RMS:  0.519241
+=================================
+orignal vertex Q2 mean:   0.0062028   RMS:  0.0013851
+elemental Q2 mean:        0.00621072   RMS:  0.00138722
+=================================
+
+

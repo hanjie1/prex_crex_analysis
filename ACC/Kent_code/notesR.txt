@@ -1,0 +1,86 @@
+septum 0.0%  v0
+=================================
+orignal vertex asymmetry mean:      558.869   RMS:   81.5647
+reproduce vertex asymmetry mean:    558.719   RMS:   81.6362
+elemental asymmetry mean:           559.089   RMS:   81.5502
+elemental stretched asym mean:      546.694   Err:   1.29962
+=================================
+orignal vertex angle mean:    4.67219   RMS:  0.519664
+elemental angle mean:               0   RMS:         0
+=================================
+orignal vertex Q2 mean:   0.00610647   RMS:  0.00137578
+elemental Q2 mean:        0.00611077   RMS:  0.00137799
+=================================
+
+Septum 1%, v0,  pinch 1mm
+=================================
+orignal vertex asymmetry mean:      558.563   RMS:   81.3119
+reproduce vertex asymmetry mean:    558.474   RMS:   81.3017
+elemental asymmetry mean:           558.938   RMS:   81.3088
+elemental stretched asym mean:      546.554   Err:   1.29515
+=================================
+orignal vertex angle mean:    4.66952   RMS:   0.51601
+elemental angle mean:          4.6687   RMS:  0.516229
+=================================
+orignal vertex Q2 mean:   0.00609846   RMS:  0.0013624
+elemental Q2 mean:        0.00610533   RMS:  0.00136517
+=================================
+
+
+Septum 2%, v0,  pinch 1.5mm
+=================================
+orignal vertex asymmetry mean:      559.674   RMS:   79.8328
+reproduce vertex asymmetry mean:    559.637   RMS:   79.7713
+elemental asymmetry mean:           560.007   RMS:   79.8562
+elemental stretched asym mean:      547.583   Err:   1.28174
+=================================
+orignal vertex angle mean:    4.67508   RMS:  0.506693
+elemental angle mean:         4.67397   RMS:   0.50687
+=================================
+orignal vertex Q2 mean:   0.00611013   RMS:  0.00133858
+elemental Q2 mean:        0.00611626   RMS:  0.00134095
+=================================
+
+
+Septum -1%, v1,  colpinch -1mm
+=================================
+orignal vertex asymmetry mean:      559.082   RMS:   82.7015
+reproduce vertex asymmetry mean:    559.106   RMS:   82.6133
+elemental asymmetry mean:           559.614   RMS:   82.4919
+elemental stretched asym mean:      547.182   Err:   1.30955
+=================================
+orignal vertex angle mean:      4.675   RMS:  0.529119
+elemental angle mean:          4.6751   RMS:   0.52832
+=================================
+orignal vertex Q2 mean:   0.00611642   RMS:  0.00140339
+elemental Q2 mean:        0.0061253   RMS:  0.00140436
+=================================
+
+
+Septum 1%, v1,  colpinch 1mm
+=================================
+orignal vertex asymmetry mean:      558.494   RMS:   81.1415
+reproduce vertex asymmetry mean:    558.419   RMS:   81.1104
+elemental asymmetry mean:           558.885   RMS:   81.1154
+elemental stretched asym mean:      546.506   Err:   1.29513
+=================================
+orignal vertex angle mean:    4.66893   RMS:  0.514927
+elemental angle mean:         4.66821   RMS:   0.51503
+=================================
+orignal vertex Q2 mean:   0.00609665   RMS:  0.00135946
+elemental Q2 mean:        0.00610372   RMS:  0.00136203
+=================================
+
+Septum 2%, v1,  colpinch 2mm
+=================================
+orignal vertex asymmetry mean:      558.715   RMS:   79.4523
+reproduce vertex asymmetry mean:    558.695   RMS:   79.3719
+elemental asymmetry mean:           559.068   RMS:   79.4563
+elemental stretched asym mean:      546.697   Err:   1.28207
+=================================
+orignal vertex angle mean:    4.66889   RMS:  0.504096
+elemental angle mean:         4.66789   RMS:  0.504179
+=================================
+orignal vertex Q2 mean:   0.00609342   RMS:  0.00133151
+elemental Q2 mean:        0.0060998   RMS:  0.0013337
+=================================
