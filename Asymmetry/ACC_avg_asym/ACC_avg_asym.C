@@ -8,7 +8,7 @@ void ACC_avg_asym(){
      TString file1 = "elastic.dat"; 
      ReadAsym(file1,angle_asym,asym,xs);
 
-     //TString file2 = "/w/halla-scifs17exp/parity/disk1/hanjie/ACC/Kent_code/accfunction_norm_100.csv"; 
+     //TString file2 = "/w/halla-scifs17exp/parity/disk1/hanjie/ACC/Kent_code/accfunction_norm_1000.csv"; 
      TString file2 = "/w/halla-scifs17exp/parity/disk1/hanjie/ACC/Kent_code/accfunc_central_average.csv"; 
      ReadACC_Kent(file2,angle_acc,accp);
 
